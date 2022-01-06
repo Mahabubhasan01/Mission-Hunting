@@ -92,6 +92,25 @@ small{
 #three{
     background-image: url(images/p33.jpeg);
     background-repeat: no-repeat;
+}
+.sub-main{
+    display: flex;
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
 
+.left-site{
+    
+    padding: 30px;
+    
+}
+.left-site img{
+    margin-top: 5px;
+margin-left: 170px;
+    width: 60%;
 
+}
+.txt{
+    text-align: left;
 }
